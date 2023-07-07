@@ -10,6 +10,28 @@ Page replacement algorithms play a vital role in operating systems, particularly
 - User-friendly interface: ...
 - Adjustable parameters: ...
 
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/Adarsh6158/Fifo-page-Replacement/blob/main/assets/119891550/66477bb0-1e64-4f3a-a957-620306666da8.png" alt="Screenshot 1" width="400">
+  <br>
+  <em>Insert a page request into the sequence by left-clicking.</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Adarsh6158/Fifo-page-Replacement/blob/main/assets/119891550/1f91dbda-c551-406f-996e-00484c71b9ab.png" alt="Screenshot 2" width="400">
+  <br>
+  <em>Remove the most recently added page request by right-clicking.</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Adarsh6158/Fifo-page-Replacement/blob/main/assets/119891550/4f869f0e-2ed6-466a-84ed-041809b25803.png" alt="Screenshot 3" width="400">
+  <br>
+  <em>Start/stop the page replacement process using the spacebar.</em>
+</p>
+
+
+
 **Installation:**
 1. Clone this repository to your desired location using the following command: `git clone https://github.com/your-username/fifo-page-replacement.git`
 2. Ensure that you have the necessary dependencies installed:
@@ -31,7 +53,11 @@ This project was inspired by the concept of page replacement algorithms and thei
 # Contributions
 Contributions to this project are always welcome. If you encounter any issues or have ideas to enhance the visualization or the underlying algorithm, please open an issue or submit a pull request.
 
-# Contact
-If you have any questions or suggestions regarding this project, feel free to contact the maintainer at your adarsh6158@gmail.com.
+## Support
 
-Happy exploring and understanding the FIFO page replacement algorithm with OpenGL visualization!
+For support, email adarsh6158@gmail.com.
+
+## 🔗 Link\
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-35a9931ba/)
