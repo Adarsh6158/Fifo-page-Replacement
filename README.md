@@ -17,14 +17,11 @@ Page replacement algorithms play a vital role in operating systems, particularly
   <br>
   <em>Insert a page request into the sequence by left-clicking.</em>
 </p>
-![1](https://github.com/Adarsh6158/Fifo-page-Replacement/assets/119891550/0db35c7f-9ec0-4e85-bc84-5cd205b30520)
-
 <p align="center">
   <img src="https://github.com/Adarsh6158/Fifo-page-Replacement/assets/119891550/3799b37f-fc99-41ca-8230-5b450676a4de" alt="Screenshot 2" width="400">
   <br>
   <em>Remove the most recently added page request by right-clicking.</em>
 </p>
-
 <p align="center">
   <img src="https://github.com/Adarsh6158/Fifo-page-Replacement/assets/119891550/2545bbd6-a221-4db7-94eb-cb9e422224e8" alt="Screenshot 3" width="400">
   <br>
