@@ -13,10 +13,11 @@ Page replacement algorithms play a vital role in operating systems, particularly
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/Adarsh6158/Fifo-page-Replacement/blob/main/assets/119891550/66477bb0-1e64-4f3a-a957-620306666da8.png" alt="Screenshot 1" width="400">
+  <img src="https://github.com/Adarsh6158/Fifo-page-Replacement/assets/119891550/0db35c7f-9ec0-4e85-bc84-5cd205b30520" alt="Screenshot 1" width="400">
   <br>
   <em>Insert a page request into the sequence by left-clicking.</em>
 </p>
+![1](https://github.com/Adarsh6158/Fifo-page-Replacement/assets/119891550/0db35c7f-9ec0-4e85-bc84-5cd205b30520)
 
 <p align="center">
   <img src="https://github.com/Adarsh6158/Fifo-page-Replacement/blob/main/assets/119891550/1f91dbda-c551-406f-996e-00484c71b9ab.png" alt="Screenshot 2" width="400">
